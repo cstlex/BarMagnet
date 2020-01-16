@@ -746,7 +746,7 @@
 				ORGANIZATIONNAME = "Charlotte Tortorella";
 				TargetAttributes = {
 					23AC2B1D175D835600FCFA71 = {
-						DevelopmentTeam = B52TY2Q6KY;
+						DevelopmentTeam = 5HU478ARYB;
 					};
 				};
 			};
@@ -1051,7 +1051,7 @@
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				CODE_SIGN_RESOURCE_RULES_PATH = "$(SDKROOT)/ResourceRules.plist";
 				DEBUG_INFORMATION_FORMAT = dwarf;
-				DEVELOPMENT_TEAM = B52TY2Q6KY;
+				DEVELOPMENT_TEAM = 5HU478ARYB;
 				GCC_C_LANGUAGE_STANDARD = gnu99;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "Sources/Supporting Files/BarMagnet-Prefix.pch";
@@ -1069,7 +1069,7 @@
 				);
 				MARKETING_VERSION = 2.0.1;
 				ONLY_ACTIVE_ARCH = NO;
-				PRODUCT_BUNDLE_IDENTIFIER = consulting.monadic.BarMagnet;
+				PRODUCT_BUNDLE_IDENTIFIER = me.schoool.BarMagnet;
 				PRODUCT_NAME = BarMagnet;
 				PROVISIONING_PROFILE = "";
 				SDKROOT = iphoneos;
@@ -1089,7 +1089,7 @@
 				CODE_SIGN_RESOURCE_RULES_PATH = "$(SDKROOT)/ResourceRules.plist";
 				COPY_PHASE_STRIP = NO;
 				DEBUG_INFORMATION_FORMAT = dwarf;
-				DEVELOPMENT_TEAM = B52TY2Q6KY;
+				DEVELOPMENT_TEAM = 5HU478ARYB;
 				GCC_C_LANGUAGE_STANDARD = gnu99;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "Sources/Supporting Files/BarMagnet-Prefix.pch";
@@ -1106,7 +1106,7 @@
 				);
 				MARKETING_VERSION = 2.0.1;
 				ONLY_ACTIVE_ARCH = NO;
-				PRODUCT_BUNDLE_IDENTIFIER = consulting.monadic.BarMagnet;
+				PRODUCT_BUNDLE_IDENTIFIER = me.schoool.BarMagnet;
 				PRODUCT_NAME = BarMagnet;
 				PROVISIONING_PROFILE = "";
 				SDKROOT = iphoneos;
